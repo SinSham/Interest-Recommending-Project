@@ -1,1 +1,1 @@
-# SinSham-Pinterest-Recommender-Project
+# Pinterest-Recommender-Project
