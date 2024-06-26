@@ -1,1 +1,1 @@
-# Pinterest-Recommender-Project
+# Interests Recommending Project
